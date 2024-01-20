@@ -10,6 +10,6 @@ I will collect your home assignment solutions through private github repositorie
 
 #	File	Deadline
 
-| 01 | |  |
+| 01 | [Week_1/[HW1_Combinatorics]-Your_Name.ipynb](Week_1/[HW1_Combinatorics]-Your_Name.ipynb) | Jan 27 |
 | -- | ------------------------| ------- |
 | 02 |  |   |
