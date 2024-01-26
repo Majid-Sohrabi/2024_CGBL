@@ -12,4 +12,4 @@ I will collect your home assignment solutions through private github repositorie
 
 | 01 | [Week_1/[HW1_Combinatorics]-Your_Name.ipynb](Week_1/[HW1_Combinatorics]-Your_Name.ipynb) | Jan 27 |
 | -- | ------------------------| ------- |
-| 02 |  |   |
+| 02 | [Week_2/[HW2_Combinatorics]-Your_Name.ipynb](Week_2/[HW2_Combinatorics]-Your_Name.ipynb) | Feb 02 | 
