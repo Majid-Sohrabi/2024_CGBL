@@ -18,5 +18,6 @@ I will collect your home assignment solutions through private github repositorie
 | 05 | [Week_7/[HW5_Combinatorics]-Your_Name.ipynb](Week_7/[HW5_Combinatorics]-Your_Name.ipynb) | Mar, 18 |
 | 06 | [Week_8/[HW6_Combinatorics]-Your_Name.ipynb](Week_8/[HW6_Combinatorics]-Your_Name.ipynb) | Mar, 22 |
 | 07 | [Week_9/[HW7_Combinatorics]-Your_Name.ipynb](Week_9/[HW7_Combinatorics]-Your_Name.ipynb) | Mar, 25 |
+| 08 | [Week_11/[HW8_Combinatorics]-Your_Name.png](Week_11/[HW8_Combinatorics]-Your_Name.png) | Apr, 13 |
 
 
